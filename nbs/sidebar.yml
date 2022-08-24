@@ -4,3 +4,4 @@ website:
       - index.ipynb
       - 00_core.ipynb
       - 01_tabelas_fipe.ipynb
+      - 02_aplicando_consulta_fipe_em_um_dataframe.ipynb
