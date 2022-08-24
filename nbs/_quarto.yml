@@ -15,21 +15,21 @@ format:
     toc-depth: 4
 
 website:
-  title: "fipy"
-  site-url: "https://joaopcnogueira.github.io/fipy"
+  title: "pyfipe"
+  site-url: "https://joaopcnogueira.github.io/pyfipe"
   description: "A python package to make requests to fipe api"
   twitter-card: true
   open-graph: true
   reader-mode: true
   repo-branch: main
-  repo-url: "https://github.com/joaopcnogueira/fipy"
+  repo-url: "https://github.com/joaopcnogueira/pyfipe"
   repo-actions: [issue]
   navbar:
     background: primary
     search: true
     right:
       - icon: github
-        href: "https://github.com/joaopcnogueira/fipy"
+        href: "https://github.com/joaopcnogueira/pyfipe"
   sidebar:
     style: "floating"
 
