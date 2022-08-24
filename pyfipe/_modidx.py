@@ -18,4 +18,10 @@ d = { 'settings': { 'branch': 'main',
                              'pyfipe.core.ConsultaFipe.preco': ( 'https://joaopcnogueira.github.io/core.html#preco',
                                                                  'https://github.com/joaopcnogueira/pyfipe/blob/main/pyfipe/core.py#L42'),
                              'pyfipe.core.ConsultaFipe.update_codigo_tabela_referencia': ( 'https://joaopcnogueira.github.io/core.html#update_codigo_tabela_referencia',
-                                                                                           'https://github.com/joaopcnogueira/pyfipe/blob/main/pyfipe/core.py#L88')}}}
+                                                                                           'https://github.com/joaopcnogueira/pyfipe/blob/main/pyfipe/core.py#L88')},
+            'pyfipe.tabelas': { 'pyfipe.tabelas.consulta_tabela_marcas': ( 'https://joaopcnogueira.github.io/tabelas_fipe.html#consulta_tabela_marcas',
+                                                                           'https://github.com/joaopcnogueira/pyfipe/blob/main/pyfipe/tabelas.py#L24'),
+                                'pyfipe.tabelas.consulta_tabela_modelos': ( 'https://joaopcnogueira.github.io/tabelas_fipe.html#consulta_tabela_modelos',
+                                                                            'https://github.com/joaopcnogueira/pyfipe/blob/main/pyfipe/tabelas.py#L42'),
+                                'pyfipe.tabelas.consulta_tabela_referencia': ( 'https://joaopcnogueira.github.io/tabelas_fipe.html#consulta_tabela_referencia',
+                                                                               'https://github.com/joaopcnogueira/pyfipe/blob/main/pyfipe/tabelas.py#L14')}}}
